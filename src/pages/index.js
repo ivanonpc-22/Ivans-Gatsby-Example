@@ -8,21 +8,14 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>Ivan Ryan</h1>
+    <h1>Portfolio</h1>
     <p>A Gatsby Frontend Site</p>
-    <p>Now go build something great.</p>
-    <StaticImage
-      src="../images/gatsby-astronaut.png"
-      width={300}
-      quality={95}
-      formats={["auto", "webp", "avif"]}
-      alt="A Gatsby astronaut"
-      style={{ marginBottom: `1.45rem` }}
-    />
-    <p>
-
-    </p>
+  
+    <p>Hmm where is my portfolio?.</p>
+  
   </Layout>
 )
+
+
 
 export default IndexPage
